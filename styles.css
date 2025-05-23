@@ -42,6 +42,7 @@ p{
 .categoria{
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-video img{
@@ -51,7 +52,7 @@ p{
 
 .categoria-video img:hover{
     opacity: 1.0;
-    border: 1px solid yellow;
+    border: 3px solid yellow;
 }
 
 .categoria h2{
